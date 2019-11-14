@@ -1,0 +1,197 @@
+Fri Nov 08 2019 14:10:05 GMT+0530 (India Standard Time) - Error: Username or Password is Wrong
+    at UserModel.login.then.data (C:\Users\hp\Desktop\Project\silk-road-backend\src\service\user.js:12:21)
+    at process._tickCallback (internal/process/next_tick.js:68:7)
+Fri Nov 08 2019 14:10:42 GMT+0530 (India Standard Time) - Error: Username or Password is Wrong
+    at UserModel.login.then.data (C:\Users\hp\Desktop\Project\silk-road-backend\src\service\user.js:12:21)
+    at process._tickCallback (internal/process/next_tick.js:68:7)
+Fri Nov 08 2019 14:17:13 GMT+0530 (India Standard Time) - Error: Account with Entered EmailId/Mobile Number Doesn't exist!
+    at UserModel.login.then.data (C:\Users\hp\Desktop\Project\silk-road-backend\src\service\user.js:18:21)
+    at process._tickCallback (internal/process/next_tick.js:68:7)
+Fri Nov 08 2019 14:17:36 GMT+0530 (India Standard Time) - Error: Entered Password is Wrong!
+    at UserModel.login.then.data (C:\Users\hp\Desktop\Project\silk-road-backend\src\service\user.js:11:21)
+    at process._tickCallback (internal/process/next_tick.js:68:7)
+Fri Nov 08 2019 14:18:01 GMT+0530 (India Standard Time) - Error: Account with Entered EmailId/Mobile Number Doesn't exist!
+    at UserModel.login.then.data (C:\Users\hp\Desktop\Project\silk-road-backend\src\service\user.js:18:21)
+    at process._tickCallback (internal/process/next_tick.js:68:7)
+Fri Nov 08 2019 15:36:52 GMT+0530 (India Standard Time) - TypeError: Cannot read property 'then' of undefined
+    at routing.post (C:\Users\hp\Desktop\Project\silk-road-backend\src\routes\UserRouting.js:44:5)
+    at Layer.handle [as handle_request] (C:\Users\hp\node_modules\express\lib\router\layer.js:95:5)
+    at next (C:\Users\hp\node_modules\express\lib\router\route.js:137:13)
+    at Route.dispatch (C:\Users\hp\node_modules\express\lib\router\route.js:112:3)
+    at Layer.handle [as handle_request] (C:\Users\hp\node_modules\express\lib\router\layer.js:95:5)
+    at C:\Users\hp\node_modules\express\lib\router\index.js:281:22
+    at Function.process_params (C:\Users\hp\node_modules\express\lib\router\index.js:335:12)
+    at next (C:\Users\hp\node_modules\express\lib\router\index.js:275:10)
+    at Function.handle (C:\Users\hp\node_modules\express\lib\router\index.js:174:3)
+    at router (C:\Users\hp\node_modules\express\lib\router\index.js:47:12)
+    at Layer.handle [as handle_request] (C:\Users\hp\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (C:\Users\hp\node_modules\express\lib\router\index.js:317:13)
+    at C:\Users\hp\node_modules\express\lib\router\index.js:284:7
+    at Function.process_params (C:\Users\hp\node_modules\express\lib\router\index.js:335:12)
+    at next (C:\Users\hp\node_modules\express\lib\router\index.js:275:10)
+    at requestLogger (C:\Users\hp\Desktop\Project\silk-road-backend\src\utilities\requestLogger.js:9:5)
+Fri Nov 08 2019 15:37:36 GMT+0530 (India Standard Time) - Error: Entered Email-Id/Mobile Number already exists!
+    at UserModel.register.then.data (C:\Users\hp\Desktop\Project\silk-road-backend\src\service\user.js:32:21)
+    at process._tickCallback (internal/process/next_tick.js:68:7)
+Fri Nov 08 2019 15:37:59 GMT+0530 (India Standard Time) - Error: Entered Email-Id/Mobile Number already exists!
+    at UserModel.register.then.data (C:\Users\hp\Desktop\Project\silk-road-backend\src\service\user.js:32:21)
+    at process._tickCallback (internal/process/next_tick.js:68:7)
+Fri Nov 08 2019 15:38:53 GMT+0530 (India Standard Time) - Error: Entered Email-Id/Mobile Number already exists!
+    at UserModel.register.then.data (C:\Users\hp\Desktop\Project\silk-road-backend\src\service\user.js:32:21)
+    at process._tickCallback (internal/process/next_tick.js:68:7)
+Fri Nov 08 2019 15:45:32 GMT+0530 (India Standard Time) - Error: Entered Email-Id/Mobile Number already exists!
+    at UserModel.register.then.data (C:\Users\hp\Desktop\Project\silk-road-backend\src\service\user.js:32:21)
+    at process._tickCallback (internal/process/next_tick.js:68:7)
+Fri Nov 08 2019 15:46:18 GMT+0530 (India Standard Time) - Error: Entered Email-Id/Mobile Number already exists!
+    at UserModel.register.then.data (C:\Users\hp\Desktop\Project\silk-road-backend\src\service\user.js:32:21)
+    at process._tickCallback (internal/process/next_tick.js:68:7)
+Fri Nov 08 2019 15:46:33 GMT+0530 (India Standard Time) - Error: Entered Email-Id/Mobile Number already exists!
+    at UserModel.register.then.data (C:\Users\hp\Desktop\Project\silk-road-backend\src\service\user.js:32:21)
+    at process._tickCallback (internal/process/next_tick.js:68:7)
+Fri Nov 08 2019 16:03:37 GMT+0530 (India Standard Time) - Error: Something went wrong , Account not deleted
+    at UserModel.deleteUser.then.data (C:\Users\hp\Desktop\Project\silk-road-backend\src\service\user.js:47:21)
+    at process._tickCallback (internal/process/next_tick.js:68:7)
+Fri Nov 08 2019 16:03:57 GMT+0530 (India Standard Time) - Error: Something went wrong , Account not deleted
+    at UserModel.deleteUser.then.data (C:\Users\hp\Desktop\Project\silk-road-backend\src\service\user.js:47:21)
+    at process._tickCallback (internal/process/next_tick.js:68:7)
+Fri Nov 08 2019 16:04:53 GMT+0530 (India Standard Time) - Error: Something went wrong , Account not deleted
+    at UserModel.deleteUser.then.data (C:\Users\hp\Desktop\Project\silk-road-backend\src\service\user.js:47:21)
+    at process._tickCallback (internal/process/next_tick.js:68:7)
+Fri Nov 08 2019 16:05:08 GMT+0530 (India Standard Time) - Error: Something went wrong , Account not deleted
+    at UserModel.deleteUser.then.data (C:\Users\hp\Desktop\Project\silk-road-backend\src\service\user.js:47:21)
+    at process._tickCallback (internal/process/next_tick.js:68:7)
+Fri Nov 08 2019 17:20:19 GMT+0530 (India Standard Time) - TypeError: Cannot read property 'uname' of undefined
+    at routing.post (C:\Users\hp\Desktop\Project\silk-road-backend\src\routes\UserRouting.js:18:40)
+    at Layer.handle [as handle_request] (C:\Users\hp\node_modules\express\lib\router\layer.js:95:5)
+    at next (C:\Users\hp\node_modules\express\lib\router\route.js:137:13)
+    at Route.dispatch (C:\Users\hp\node_modules\express\lib\router\route.js:112:3)
+    at Layer.handle [as handle_request] (C:\Users\hp\node_modules\express\lib\router\layer.js:95:5)
+    at C:\Users\hp\node_modules\express\lib\router\index.js:281:22
+    at Function.process_params (C:\Users\hp\node_modules\express\lib\router\index.js:335:12)
+    at next (C:\Users\hp\node_modules\express\lib\router\index.js:275:10)
+    at Function.handle (C:\Users\hp\node_modules\express\lib\router\index.js:174:3)
+    at router (C:\Users\hp\node_modules\express\lib\router\index.js:47:12)
+    at Layer.handle [as handle_request] (C:\Users\hp\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (C:\Users\hp\node_modules\express\lib\router\index.js:317:13)
+    at C:\Users\hp\node_modules\express\lib\router\index.js:284:7
+    at Function.process_params (C:\Users\hp\node_modules\express\lib\router\index.js:335:12)
+    at next (C:\Users\hp\node_modules\express\lib\router\index.js:275:10)
+    at requestLogger (C:\Users\hp\Desktop\Project\silk-road-backend\src\utilities\requestLogger.js:9:5)
+Fri Nov 08 2019 17:20:28 GMT+0530 (India Standard Time) - TypeError: Cannot read property 'uname' of undefined
+    at routing.post (C:\Users\hp\Desktop\Project\silk-road-backend\src\routes\UserRouting.js:18:40)
+    at Layer.handle [as handle_request] (C:\Users\hp\node_modules\express\lib\router\layer.js:95:5)
+    at next (C:\Users\hp\node_modules\express\lib\router\route.js:137:13)
+    at Route.dispatch (C:\Users\hp\node_modules\express\lib\router\route.js:112:3)
+    at Layer.handle [as handle_request] (C:\Users\hp\node_modules\express\lib\router\layer.js:95:5)
+    at C:\Users\hp\node_modules\express\lib\router\index.js:281:22
+    at Function.process_params (C:\Users\hp\node_modules\express\lib\router\index.js:335:12)
+    at next (C:\Users\hp\node_modules\express\lib\router\index.js:275:10)
+    at Function.handle (C:\Users\hp\node_modules\express\lib\router\index.js:174:3)
+    at router (C:\Users\hp\node_modules\express\lib\router\index.js:47:12)
+    at Layer.handle [as handle_request] (C:\Users\hp\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (C:\Users\hp\node_modules\express\lib\router\index.js:317:13)
+    at C:\Users\hp\node_modules\express\lib\router\index.js:284:7
+    at Function.process_params (C:\Users\hp\node_modules\express\lib\router\index.js:335:12)
+    at next (C:\Users\hp\node_modules\express\lib\router\index.js:275:10)
+    at requestLogger (C:\Users\hp\Desktop\Project\silk-road-backend\src\utilities\requestLogger.js:9:5)
+Fri Nov 08 2019 17:30:16 GMT+0530 (India Standard Time) - Error: Entered Password is Wrong!
+    at UserModel.login.then.data (C:\Users\hp\Desktop\Project\silk-road-backend\src\service\user.js:11:21)
+    at process._tickCallback (internal/process/next_tick.js:68:7)
+Fri Nov 08 2019 17:31:44 GMT+0530 (India Standard Time) - Error: Entered Password is Wrong!
+    at UserModel.login.then.data (C:\Users\hp\Desktop\Project\silk-road-backend\src\service\user.js:11:21)
+    at process._tickCallback (internal/process/next_tick.js:68:7)
+Fri Nov 08 2019 17:32:12 GMT+0530 (India Standard Time) - Error: Entered Password is Wrong!
+    at UserModel.login.then.data (C:\Users\hp\Desktop\Project\silk-road-backend\src\service\user.js:11:21)
+    at process._tickCallback (internal/process/next_tick.js:68:7)
+Fri Nov 08 2019 17:32:35 GMT+0530 (India Standard Time) - Error: Entered Password is Wrong!
+    at UserModel.login.then.data (C:\Users\hp\Desktop\Project\silk-road-backend\src\service\user.js:11:21)
+    at process._tickCallback (internal/process/next_tick.js:68:7)
+Fri Nov 08 2019 17:38:49 GMT+0530 (India Standard Time) - Error: Entered Password is Wrong!
+    at UserModel.login.then.data (C:\Users\hp\Desktop\Project\silk-road-backend\src\service\user.js:11:21)
+    at process._tickCallback (internal/process/next_tick.js:68:7)
+Fri Nov 08 2019 17:39:07 GMT+0530 (India Standard Time) - Error: Account with Entered EmailId/Mobile Number Doesn't exist!
+    at UserModel.login.then.data (C:\Users\hp\Desktop\Project\silk-road-backend\src\service\user.js:18:21)
+    at process._tickCallback (internal/process/next_tick.js:68:7)
+Fri Nov 08 2019 17:51:47 GMT+0530 (India Standard Time) - Error: Entered Email-Id/Mobile Number already exists!
+    at UserModel.register.then.data (C:\Users\hp\Desktop\Project\silk-road-backend\src\service\user.js:32:21)
+    at process._tickCallback (internal/process/next_tick.js:68:7)
+Fri Nov 08 2019 17:53:21 GMT+0530 (India Standard Time) - Error: Entered Email-Id/Mobile Number already exists!
+    at UserModel.register.then.data (C:\Users\hp\Desktop\Project\silk-road-backend\src\service\user.js:32:21)
+    at process._tickCallback (internal/process/next_tick.js:68:7)
+Fri Nov 08 2019 17:55:13 GMT+0530 (India Standard Time) - Error: Entered Email-Id/Mobile Number already exists!
+    at UserModel.register.then.data (C:\Users\hp\Desktop\Project\silk-road-backend\src\service\user.js:32:21)
+    at process._tickCallback (internal/process/next_tick.js:68:7)
+Fri Nov 08 2019 17:56:31 GMT+0530 (India Standard Time) - Error: Account with Entered EmailId/Mobile Number Doesn't exist!
+    at UserModel.login.then.data (C:\Users\hp\Desktop\Project\silk-road-backend\src\service\user.js:18:21)
+    at process._tickCallback (internal/process/next_tick.js:68:7)
+Fri Nov 08 2019 17:56:41 GMT+0530 (India Standard Time) - Error: Entered Password is Wrong!
+    at UserModel.login.then.data (C:\Users\hp\Desktop\Project\silk-road-backend\src\service\user.js:11:21)
+    at process._tickCallback (internal/process/next_tick.js:68:7)
+Fri Nov 08 2019 19:08:42 GMT+0530 (India Standard Time) - Error: Entered Password is Wrong!
+    at UserModel.login.then.data (C:\Users\hp\Desktop\Project\silk-road-backend\src\service\user.js:11:21)
+    at process._tickCallback (internal/process/next_tick.js:68:7)
+Fri Nov 08 2019 19:08:42 GMT+0530 (India Standard Time) - Error: Entered Password is Wrong!
+    at UserModel.login.then.data (C:\Users\hp\Desktop\Project\silk-road-backend\src\service\user.js:11:21)
+    at process._tickCallback (internal/process/next_tick.js:68:7)
+Fri Nov 08 2019 19:08:43 GMT+0530 (India Standard Time) - Error: Entered Password is Wrong!
+    at UserModel.login.then.data (C:\Users\hp\Desktop\Project\silk-road-backend\src\service\user.js:11:21)
+    at process._tickCallback (internal/process/next_tick.js:68:7)
+Fri Nov 08 2019 19:08:43 GMT+0530 (India Standard Time) - Error: Entered Password is Wrong!
+    at UserModel.login.then.data (C:\Users\hp\Desktop\Project\silk-road-backend\src\service\user.js:11:21)
+    at process._tickCallback (internal/process/next_tick.js:68:7)
+Fri Nov 08 2019 19:08:43 GMT+0530 (India Standard Time) - Error: Entered Password is Wrong!
+    at UserModel.login.then.data (C:\Users\hp\Desktop\Project\silk-road-backend\src\service\user.js:11:21)
+    at process._tickCallback (internal/process/next_tick.js:68:7)
+Fri Nov 08 2019 19:09:00 GMT+0530 (India Standard Time) - Error: Account with Entered EmailId/Mobile Number Doesn't exist!
+    at UserModel.login.then.data (C:\Users\hp\Desktop\Project\silk-road-backend\src\service\user.js:18:21)
+    at process._tickCallback (internal/process/next_tick.js:68:7)
+Fri Nov 08 2019 19:28:42 GMT+0530 (India Standard Time) - Error: Entered Email-Id/Mobile Number already exists!
+    at UserModel.register.then.data (C:\Users\hp\Desktop\Project\silk-road-backend\src\service\user.js:32:21)
+    at process._tickCallback (internal/process/next_tick.js:68:7)
+Fri Nov 08 2019 20:02:23 GMT+0530 (India Standard Time) - Error: Entered Password is Wrong!
+    at UserModel.login.then.data (C:\Users\hp\Desktop\Project\silk-road-backend\src\service\user.js:11:21)
+    at process._tickCallback (internal/process/next_tick.js:68:7)
+Fri Nov 08 2019 20:02:36 GMT+0530 (India Standard Time) - Error: Account with Entered EmailId/Mobile Number Doesn't exist!
+    at UserModel.login.then.data (C:\Users\hp\Desktop\Project\silk-road-backend\src\service\user.js:18:21)
+    at process._tickCallback (internal/process/next_tick.js:68:7)
+Sat Nov 09 2019 14:15:08 GMT+0530 (India Standard Time) - Error: Entered Email-Id/Mobile Number already exists!
+    at UserModel.register.then.data (C:\Users\hp\Desktop\Project\silk-road-backend\src\service\user.js:32:21)
+    at process._tickCallback (internal/process/next_tick.js:68:7)
+Mon Nov 11 2019 12:37:26 GMT+0530 (India Standard Time) - Error: Entered Password is Wrong!
+    at UserModel.login.then.data (C:\Users\hp\Desktop\Project\silk-road-backend\src\service\user.js:11:21)
+    at process._tickCallback (internal/process/next_tick.js:68:7)
+Mon Nov 11 2019 12:40:15 GMT+0530 (India Standard Time) - Error: Entered Password is Wrong!
+    at UserModel.login.then.data (C:\Users\hp\Desktop\Project\silk-road-backend\src\service\user.js:11:21)
+    at process._tickCallback (internal/process/next_tick.js:68:7)
+Tue Nov 12 2019 18:07:03 GMT+0530 (India Standard Time) - Error: Something went wrong , Please Try after some time
+    at PostModel.getAllPosts.then.res (C:\Users\hp\Desktop\Project\silk-road-backend\src\service\post.js:37:21)
+    at process._tickCallback (internal/process/next_tick.js:68:7)
+Tue Nov 12 2019 18:21:12 GMT+0530 (India Standard Time) - Error: Entered Password is Wrong!
+    at UserModel.login.then.data (C:\Users\hp\Desktop\Project\silk-road-backend\src\service\user.js:11:21)
+    at process._tickCallback (internal/process/next_tick.js:68:7)
+Tue Nov 12 2019 19:03:09 GMT+0530 (India Standard Time) - Error: Entered Password is Wrong!
+    at UserModel.login.then.data (C:\Users\hp\Desktop\Project\silk-road-backend\src\service\user.js:11:21)
+    at process._tickCallback (internal/process/next_tick.js:68:7)
+Tue Nov 12 2019 20:33:50 GMT+0530 (India Standard Time) - Error: Entered Password is Wrong!
+    at UserModel.login.then.data (C:\Users\hp\Desktop\Project\silk-road-backend\src\service\user.js:11:21)
+    at process._tickCallback (internal/process/next_tick.js:68:7)
+Tue Nov 12 2019 20:46:32 GMT+0530 (India Standard Time) - Error: Entered Password is Wrong!
+    at UserModel.login.then.data (C:\Users\hp\Desktop\Project\silk-road-backend\src\service\user.js:11:21)
+    at process._tickCallback (internal/process/next_tick.js:68:7)
+Wed Nov 13 2019 17:26:01 GMT+0530 (India Standard Time) - TypeError: Cannot read property 'trim' of undefined
+    at new PostData (C:\Users\hp\Desktop\Project\silk-road-backend\src\model\PostData.js:10:51)
+    at routing.post (C:\Users\hp\Desktop\Project\silk-road-backend\src\routes\PostRouting.js:19:24)
+    at Layer.handle [as handle_request] (C:\Users\hp\Desktop\Project\silk-road-backend\node_modules\express\lib\router\layer.js:95:5)
+    at next (C:\Users\hp\Desktop\Project\silk-road-backend\node_modules\express\lib\router\route.js:137:13)
+    at Route.dispatch (C:\Users\hp\Desktop\Project\silk-road-backend\node_modules\express\lib\router\route.js:112:3)
+    at Layer.handle [as handle_request] (C:\Users\hp\Desktop\Project\silk-road-backend\node_modules\express\lib\router\layer.js:95:5)
+    at C:\Users\hp\Desktop\Project\silk-road-backend\node_modules\express\lib\router\index.js:281:22
+    at Function.process_params (C:\Users\hp\Desktop\Project\silk-road-backend\node_modules\express\lib\router\index.js:335:12)
+    at next (C:\Users\hp\Desktop\Project\silk-road-backend\node_modules\express\lib\router\index.js:275:10)
+    at Function.handle (C:\Users\hp\Desktop\Project\silk-road-backend\node_modules\express\lib\router\index.js:174:3)
+    at router (C:\Users\hp\Desktop\Project\silk-road-backend\node_modules\express\lib\router\index.js:47:12)
+    at Layer.handle [as handle_request] (C:\Users\hp\Desktop\Project\silk-road-backend\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (C:\Users\hp\Desktop\Project\silk-road-backend\node_modules\express\lib\router\index.js:317:13)
+    at C:\Users\hp\Desktop\Project\silk-road-backend\node_modules\express\lib\router\index.js:284:7
+    at Function.process_params (C:\Users\hp\Desktop\Project\silk-road-backend\node_modules\express\lib\router\index.js:335:12)
+    at next (C:\Users\hp\Desktop\Project\silk-road-backend\node_modules\express\lib\router\index.js:275:10)
